@@ -1,0 +1,231 @@
+canonical_identifier: bkk:krp/KR6j0687/v1
+canonical_location: https://kanripo.org/bkk/KR6j0687/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楞嚴經通議
+  identifiers:
+    alt_id:
+    - X12n0279
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X12/X12n0279.xml
+    old_id: X12n0279
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0687_000.yaml, hash: 'sha256:d6ad32c260a23b32b0ae62af81ee542cc387e6e5bfb41db4a38962814ac4b7f9'}
+  - {seq: 1, filename: KR6j0687_001.yaml, hash: 'sha256:b3282efd8a66c1a8cdc4a61693784355d0a7de9a26e2c8fb9367d732eaa1ff9b'}
+  - {seq: 2, filename: KR6j0687_002.yaml, hash: 'sha256:1535e65971a8f61a1b8d16e8f20305d43c9569de292310c0736fb56fe8073409'}
+  - {seq: 3, filename: KR6j0687_003.yaml, hash: 'sha256:e2487172459cf7211e1e54ad4ba497957b767d520a90ce53413cd8edd8aeaeb0'}
+  - {seq: 4, filename: KR6j0687_004.yaml, hash: 'sha256:e6765c8a82f56122427e7dcd1a6e963bd9d4b1297e0db541558c8ba3d9c21f31'}
+  - {seq: 5, filename: KR6j0687_005.yaml, hash: 'sha256:e5c702140df0b4629db4a9e5478e5a68c244f1826ff3654c7faa7d64118688f1'}
+  - {seq: 6, filename: KR6j0687_006.yaml, hash: 'sha256:a5e8d0f770819cea86bbf8bee5d06ec0f50dee69b3d5a89d5bc0aba46511d15f'}
+  - {seq: 7, filename: KR6j0687_007.yaml, hash: 'sha256:5b9429bf253dd295c00c4e0e07e18d84e199432109fdd2bd81bab009b352fdf1'}
+  - {seq: 8, filename: KR6j0687_008.yaml, hash: 'sha256:0caf9946832304bed77fd45b04099633c8c643a859289c26c85c2a8e383ca7da'}
+  - {seq: 9, filename: KR6j0687_009.yaml, hash: 'sha256:8b3142e4341064820ac5ebeab01c534561d1d9126f92135a1acc883afd5cf05c'}
+  - {seq: 10, filename: KR6j0687_010.yaml, hash: 'sha256:f08dc0cf6be71d02e9080021a29a8b1f324e1f4b5ac85c229271f90f2bdeb77b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0687_000.markers.yaml, hash: 'sha256:5238becb933665d90cb228aa9d82b5f9f9a4faf74cc060475c3725d8bf1d0d68'}
+  - {seq: 1, role: markers, filename: assets/KR6j0687_001.markers.yaml, hash: 'sha256:045018bf8068d59472378f9fbb927508c75140979a192e72992bd0a5406eec1d'}
+  - {seq: 2, role: markers, filename: assets/KR6j0687_002.markers.yaml, hash: 'sha256:1f45c068f066d04fe6462b303e1cfcf5dcf7ed4f11cb5f0412b0276b758b0f33'}
+  - {seq: 3, role: markers, filename: assets/KR6j0687_003.markers.yaml, hash: 'sha256:34b27a9db810fe978b4d480c304871c8781c0f6c62cd33898b109a1ea23b3b13'}
+  - {seq: 4, role: markers, filename: assets/KR6j0687_004.markers.yaml, hash: 'sha256:4af1e624cebebd77c73197dbe2857a8f9e5d7dbbc5ca65bce522b527d3987232'}
+  - {seq: 5, role: markers, filename: assets/KR6j0687_005.markers.yaml, hash: 'sha256:e0a88b23ebfafdfc1eef99635dc93342cefce47e3a345a997c540b07c9b6adf9'}
+  - {seq: 6, role: markers, filename: assets/KR6j0687_006.markers.yaml, hash: 'sha256:feee8aaaeb12ec9e655089f95142d10c4df8b8797cbfc8492eb975404e5bce3a'}
+  - {seq: 7, role: markers, filename: assets/KR6j0687_007.markers.yaml, hash: 'sha256:09342220b22d3c4dc4f3e8a313bf62eb7f061cf88abe980dcc940547cead2bd9'}
+  - {seq: 8, role: markers, filename: assets/KR6j0687_008.markers.yaml, hash: 'sha256:ec62e9ff72d7e8347ce5e1811b84aad8925d0fc2aeedacd5cc49e925e7b70875'}
+  - {seq: 9, role: markers, filename: assets/KR6j0687_009.markers.yaml, hash: 'sha256:fbbc7f8ce74685e800f9693a7fab8c5a51fbab689a0d210527907298346c657e'}
+  - {seq: 10, role: markers, filename: assets/KR6j0687_010.markers.yaml, hash: 'sha256:f6e022cb937da306f675ec45374e5d1d2a612dba2f2f03569bff8bf66e8e21da'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0687_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 279-A 首楞嚴經通議序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0687_X_000-mulu-2
+    span:
+    - front
+    - 702
+    - 702
+  label: No. 279-B 重刻首楞嚴經通議序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0687_X_000-mulu-3
+    span:
+    - front
+    - 974
+    - 974
+  label: 楞嚴經通議
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0687_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 14164
+  label: '大佛頂如來密因修證了義諸菩薩
+
+    萬行首楞嚴經通議卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0687_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 懸判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0687_X_001-mulu-2
+    span:
+    - body
+    - 1306
+    - 1306
+  label: 隨文論議
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0687_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 16262
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0687_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 12940
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0687_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 18099
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0687_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 11448
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第五'
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0687_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 14253
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0687_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 14101
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0687_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 20380
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第八'
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0687_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 16104
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第九'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0687_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 19602
+  label: '大佛頂如來密因修證了義諸菩薩萬行首楞嚴經
+
+    通議卷第十'
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0687_X_010-mulu-1
+    span:
+    - body
+    - 13000
+    - 13000
+  label: 楞嚴通議補遺
+  type: mulu
+  level: 1
+hash: sha256:a8b8bfc17d9002db5e29af7eefe70a3b12892ae2de5b22b6c1643a26c03e2883
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
