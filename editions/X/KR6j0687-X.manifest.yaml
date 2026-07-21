@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0687_000-X.yaml, hash: 'sha256:100ddeab9c629fec160a5b1e479cef48c845331eb4dedaf2277b2af4cb6ba4fd'}
+  - {seq: 0, filename: KR6j0687_000-X.yaml, hash: 'sha256:1c548adcd0cecdbfe075777df96bd8486746015bfd03efc8d1b200c54f02e36f'}
   - {seq: 1, filename: KR6j0687_001-X.yaml, hash: 'sha256:3f8562ae9ef585b4a304c56fa32bc32d96e9a278260cbf24022c26fd9b847a30'}
   - {seq: 2, filename: KR6j0687_002-X.yaml, hash: 'sha256:47d2373bda4506917bd2df8634bf52d9339944de7bada7eb2bb5bfada51e9892'}
   - {seq: 3, filename: KR6j0687_003-X.yaml, hash: 'sha256:d4a3281d51618b36ce7a29400a4617d1f107391fd3485146c43fbe01acff00b5'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6j0687_009-X.yaml, hash: 'sha256:1c8ad380fb766ea0c12b10ca90bcb4d50f7607394b5124e6cc22ac0b206ee7fe'}
   - {seq: 10, filename: KR6j0687_010-X.yaml, hash: 'sha256:006d104428b5e019f4398247e4a58b05bc5aad3ffabb0235aef129289636eadb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0687_000-X.markers.yaml, hash: 'sha256:a95b76fa1c6a785012e8be9ad18446e74ede5953b2ab223645a10e8300c3e29d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0687_000-X.markers.yaml, hash: 'sha256:62f9dea989f1396bc08b699bb266995df929dce2b48a07e76904bf936dd2114e'}
   - {seq: 1, role: markers, filename: assets/KR6j0687_001-X.markers.yaml, hash: 'sha256:5bf080549fa10f1b85147a66edd41fd7a4a49a095e4e1dd81c0f164cada6bfde'}
   - {seq: 2, role: markers, filename: assets/KR6j0687_002-X.markers.yaml, hash: 'sha256:f4330d44e5a70fc07985da7aa09ac4223f841606b21b00525fa3b771cc729981'}
   - {seq: 3, role: markers, filename: assets/KR6j0687_003-X.markers.yaml, hash: 'sha256:ed346938939623ffe20ab77491f8b12bd05c5201f65793d1bf94d2c220c660ae'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0687_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 279-A 首楞嚴經通議序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0687_X_000-mulu-2
     span:
-    - front
+    - body
     - 702
     - 702
   label: No. 279-B 重刻首楞嚴經通議序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0687_X_000-mulu-3
     span:
-    - front
+    - body
     - 974
     - 974
   label: 楞嚴經通議
@@ -223,4 +223,4 @@ table_of_contents:
   label: 楞嚴通議補遺
   type: mulu
   level: 1
-hash: sha256:1f7ab04cb66614180a6658b2b1caf132a1070f309d9945705600432bacfd2131
+hash: sha256:52d832b318ec7cef098a1cab0fc19c2c03afd14fc46219851edc4251b73163ca
